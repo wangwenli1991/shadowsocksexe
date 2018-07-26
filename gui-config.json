@@ -1,0 +1,71 @@
+{
+  "configs": [
+    {
+      "server": "45.32.175.181",
+      "server_port": 8381,
+      "password": "foobar1",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "aws",
+      "timeout": 5
+    },
+    {
+      "server": "35.201.237.22",
+      "server_port": 231,
+      "password": "wangwenli888",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "35.229.178.50",
+      "server_port": 2333,
+      "password": "root",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 2,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
